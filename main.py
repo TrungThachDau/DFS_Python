@@ -67,3 +67,4 @@ if __name__ == "__main__":
     print("DSF: (bắt đầu từ đỉnh 0)")
     # gọi hàm DFS để duyệt đồ thị
     g.DFS(0)
+    print("Hello world")
